@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "M03 Lab  Case Study Lists, Functions, and Classes", "M03 Lab  Case Study Lists, Functions, and Classes\M03 Lab  Case Study Lists, Functions, and Classes.pyproj", "{D392107B-FC77-416A-BDB2-8E966B1FB034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D392107B-FC77-416A-BDB2-8E966B1FB034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D392107B-FC77-416A-BDB2-8E966B1FB034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E2CF6DB-1957-4E58-9FDC-A37F32AE4384}
+	EndGlobalSection
+EndGlobal
